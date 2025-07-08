@@ -129,7 +129,7 @@ MODEL_PATH = Path(__file__).resolve().parent.parent / "models" / "kazRush-ru-kk"
 3. Откройте веб-интерфейс:
    - **Grammar** — генерация ответа
    - **Translate** — перевод
-   - **QA & Template** — опционально
+   - **QA & Template** — RAG
 
 ---
 
